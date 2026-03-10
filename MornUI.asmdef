@@ -1,0 +1,17 @@
+{
+    "name": "MornUI",
+    "rootNamespace": "MornLib",
+    "references": [
+        "Unity.TextMeshPro",
+        "MornGlobal"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
